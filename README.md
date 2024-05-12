@@ -25,6 +25,12 @@
 
 React component for easily use Google Places Autocomplete
 
+# !IMPORTANT
+
+This repo is not official, it only fixes the problem DefaultProps deprecated from react to this repository. The original github file is:
+https://github.com/Tintef/react-google-places-autocomplete
+Special thanks to @Tintef for providing this lib
+
 
 ## Getting started
 
